@@ -52,5 +52,3 @@ Restricción (Constraint): Instancia una cámara y le aplica una restricción de
 
 
 <img width="1919" height="1022" alt="Captura de pantalla 2026-02-25 215845" src="https://github.com/user-attachments/assets/1f41aab7-1ede-4d50-aaf5-628c52df82d0" />
-
-(El video no me dejo adjuntarlo pero esta grabado en la memoria de mi lap)
